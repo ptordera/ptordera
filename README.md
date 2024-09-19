@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ptordera&show_icons=true&theme=dark&bg_color=000000&locale=es" alt="ptordera" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ptordera&theme=dark" alt="ptordera" /></p
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ptordera&theme=dark" alt="ptordera" /></p>
